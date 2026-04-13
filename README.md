@@ -1,5 +1,6 @@
 ## Hi there 👋
 <img width="1584" height="396" alt="Banner readme definitivo" src="https://github.com/user-attachments/assets/f91dd83b-7060-4850-b80d-fb9686bc57c6" />
+
 **I am someone driven by curiosity, logic, and the desire to build things that truly work.**
 
 **Currently, I am on an intense journey of development in technology and business. I have been exploring everything from programming and problem-solving to strategic market analysis, always aiming to go beyond theory and understand how things actually work in the real world.**
